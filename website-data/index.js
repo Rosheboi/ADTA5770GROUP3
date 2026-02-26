@@ -2,11 +2,11 @@
 async function loadAndUseData(){
   try{
     //Wait for file to download and turn into a JS object 
-    const response = await fetch('./medical_data.json'); // Fetch is relative to the URL to the browser, not the JS file !!!!!!
+    const response = await fetch('./website-data/medical_data.json'); // Fetch is relative to the URL to the browser, not the JS file !!!!!!
     const data = await response.json();
     
     // Doing same step but for other file, waiting for 1st object to be created before going to next
-    const response2 = await fetch('./general_data.json'); // Fetch is relative to the URL to the browser, not the JS file !!!!!!
+    const response2 = await fetch('./website-data/general_data.json'); // Fetch is relative to the URL to the browser, not the JS file !!!!!!
     const data2 = await response2.json();
     
     //'data' is now available in this entire function
@@ -41,7 +41,7 @@ async function loadAndUseData(){
             //Making button access when clicked, using addEventListener
             newButton.addEventListener("click", function(){
               //Basically filling the link with the name of the title for each row
-              const pdfURL = `/medical-kb/${data[i]['ID']}.pdf`
+              const pdfURL = `./website-data/medical-kb/${data[i]['ID']}.pdf`
               const newWindow = window.open(pdfURL, '_blank');
             })
             // Physically Adding the button
@@ -82,7 +82,7 @@ async function loadAndUseData(){
             //Making button access when clicked, using addEventListener
             newButton.addEventListener("click", function(){
               //Basically filling the link with the name of the title for each row
-              const pdfURL = `/new-contaminated-copy/${data2[i]['ID']}.pdf`
+              const pdfURL = `./website-data/general-kb/${data[i]['ID']}.pdf`
               const newWindow = window.open(pdfURL, '_blank');
             })
             // Physically Adding the button
