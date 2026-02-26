@@ -1,0 +1,398 @@
+[
+    {
+        "ID":"INDENG000",
+        "Title":"A Conceptual Model on People Approach and Smart Manufacturing"
+    },
+    {
+        "ID":"INDENG001",
+        "Title":"Chemical Exposure in Workplace Environments: Assessing Health Risks and Developing Safety Measures"
+    },
+    {
+        "ID":"INDENG002",
+        "Title":"AI-Powered MIS for Risk Detection in Industrial Engineering Projects"
+    },
+    {
+        "ID":"INDENG003",
+        "Title":"Computer Integrated Manufacturing Architecture: A Literature Review"
+    },
+    {
+        "ID":"INDENG004",
+        "Title":"Computer Integrated Manufacturing Implementation:Benefits and Challenges"
+    },
+    {
+        "ID":"INDENG005",
+        "Title":"Applications of Quantum Machine Learning in Large-Scale E-commerce Recommendation Systems: Enhancing Efficiency and Accuracy"
+    },
+    {
+        "ID":"INDENG006",
+        "Title":"A Review on Application of Model Based Systems Engineering to Manufacturing and Production Engineering Systems"
+    },
+    {
+        "ID":"INDENG007",
+        "Title":"Applications of Machine Learning in Financial Accounting for Industrial Engineering: A Case Study on Cost Estimation and Forecasting"
+    },
+    {
+        "ID":"INDENG008",
+        "Title":"Applications of Fuzzy Sets in Industrial Engineering: A Topical Classification"
+    },
+    {
+        "ID":"INDENG009",
+        "Title":"A Rough Multi-Attributive Border Approximation Area Comparison Approach for Arc Welding Robot Selection"
+    },
+    {
+        "ID":"INDENG010",
+        "Title":"A New Perspective on Digital Twin-Based Mechanical Design in Industrial Engineering"
+    },
+    {
+        "ID":"INDENG011",
+        "Title":"An overview on robotics and control systems"
+    },
+    {
+        "ID":"INDENG012",
+        "Title":"A Design Of An Automated Assessment Process For The Outcomes-Based Education In The Industrial Engineering Department Of The Faculty Of Engineering At The University Of Santo Tomas"
+    },
+    {
+        "ID":"INDENG013",
+        "Title":"Design for Safety and Human Factors in Industrial Engineering: a review towards a unified framework"
+    },
+    {
+        "ID":"INDENG014",
+        "Title":"Industrial Engineering is a Mindset, not a Methodology"
+    },
+    {
+        "ID":"INDENG015",
+        "Title":"Flexible manufacturing system"
+    },
+    {
+        "ID":"INDENG016",
+        "Title":"Flexible manufacturing systems: industry 4.0 solution"
+    },
+    {
+        "ID":"INDENG017",
+        "Title":"Additive Manufacturing: Status and Opportunities"
+    },
+    {
+        "ID":"INDENG018",
+        "Title":"Industrial Engineering Studies: Ergonomics Essences in the Systems Approach"
+    },
+    {
+        "ID":"INDENG019",
+        "Title":"Big data driven innovation for sustaining SME supply chain operation in post COVID-19 scenario: Moderating role of SME technology leadership"
+    },
+    {
+        "ID":"INDENG020",
+        "Title":"A Review on Implementation of 5S for Workplace Management"
+    },
+    {
+        "ID":"INDENG021",
+        "Title":"Basics, applications, and future of additive manufacturing technologies: a review"
+    },
+    {
+        "ID":"INDENG022",
+        "Title":"Fuzzy methods in decision making process - A particular approach in manufacturing systems"
+    },
+    {
+        "ID":"INDENG023",
+        "Title":"Dependability and reliability and reliability of manufacturing systems"
+    },
+    {
+        "ID":"INDENG024",
+        "Title":"Cognitive Linguistics Theory in Anthropocentric Paradigm"
+    },
+    {
+        "ID":"INDENG025",
+        "Title":"Analysis of Industrial Engineering Students\u2019 Perception after a Multiple Integrals-Based Activity with a Fourth-Year Student"
+    },
+    {
+        "ID":"INDENG026",
+        "Title":"Designing Facilities Layout for Small and Medium Enterprises"
+    },
+    {
+        "ID":"INDENG027",
+        "Title":"Data analytics - is it industrial engineering reborn?"
+    },
+    {
+        "ID":"INDENG028",
+        "Title":"Flexible Manufacturing System A Modern Approach To Manufacturing Technology"
+    },
+    {
+        "ID":"INDENG029",
+        "Title":"Circular economy strategies in industrial engineering: From theory to practice"
+    },
+    {
+        "ID":"INDENG030",
+        "Title":"Analysing the market for digital payments in India using the predator-prey model"
+    },
+    {
+        "ID":"INDENG031",
+        "Title":"Additive Manufacturing in Automobile Industry"
+    },
+    {
+        "ID":"INDENG032",
+        "Title":"A Model of the Factors Affecting Supply Chain Resilience: An Integrative Approach Incorporating Hesitant Fuzzy TOPSIS and Meta-Synthesis"
+    },
+    {
+        "ID":"INDENG033",
+        "Title":"A bibliometric research of Industry 4.0 opportunities in Industrial Engineering"
+    },
+    {
+        "ID":"INDENG034",
+        "Title":"Data Mining-driven Manufacturing Process Optimization"
+    },
+    {
+        "ID":"INDENG035",
+        "Title":"Optimizing Oil Production through Agile Project Execution Frameworks in Complex Energy Sector Challenges"
+    },
+    {
+        "ID":"INDENG036",
+        "Title":"Process safety and abnormal situation management"
+    },
+    {
+        "ID":"INDENG037",
+        "Title":"Smart Manufacturing: Latest Technologies And Applications In Industrial Engineering"
+    },
+    {
+        "ID":"INDENG038",
+        "Title":"International Journal of Industrial Engineering Computations"
+    },
+    {
+        "ID":"INDENG039",
+        "Title":"Resilience and Risk Management in Social Robot Systems: An Industrial Engineering Perspective"
+    },
+    {
+        "ID":"INDENG040",
+        "Title":"Productivity Improvement by Implementing Lean Manufacturing Tools In Manufacturing Industry"
+    },
+    {
+        "ID":"INDENG041",
+        "Title":"Machine Learning Techniques for Smart Manufacturing: Applications and Challenges in Industry 4.0"
+    },
+    {
+        "ID":"INDENG042",
+        "Title":"Smart Manufacturing And Robotics: Revolutionizing The Production Floor With Advanced Robotics"
+    },
+    {
+        "ID":"INDENG043",
+        "Title":"Industrial energy use, efficiency, and savings: methods for quantitative analysis"
+    },
+    {
+        "ID":"INDENG044",
+        "Title":"Smart manufacturing with prescriptive analytics"
+    },
+    {
+        "ID":"INDENG045",
+        "Title":"Integration Between Occupational and Process Safety: Existing Approaches and Challenges for an Enhanced Framework"
+    },
+    {
+        "ID":"INDENG046",
+        "Title":"Improving on Machine Reliability and Productivity Through Data Analysis"
+    },
+    {
+        "ID":"INDENG047",
+        "Title":"Measurement of psychological impact of industrial engineering students in fulfillment of online learning outcomes using NASA-TLX method"
+    },
+    {
+        "ID":"INDENG048",
+        "Title":"Industry 4.0: Some Challenges and Opportunities for Reliability Engineering"
+    },
+    {
+        "ID":"INDENG049",
+        "Title":"Integrated Facility Layout And Material Handling System Design In Semiconductor Fabrication Facilities"
+    },
+    {
+        "ID":"INDENG050",
+        "Title":"A Literature Review on the Evolution of Lean Manufacturing"
+    },
+    {
+        "ID":"INDENG051",
+        "Title":"Lean manufacturing best practices in SMEs"
+    },
+    {
+        "ID":"INDENG052",
+        "Title":"Design and Implementation of Computer Integrated Manufacturing in Small and Medium-Sized Enterprises: A Case Study"
+    },
+    {
+        "ID":"INDENG053",
+        "Title":"Implementation of Measurement System Analysis to Reduce Measurement Process Failures on Part Reinf BK6"
+    },
+    {
+        "ID":"INDENG054",
+        "Title":"Advancements in Optimization for Automotive Manufacturing: Hybrid Approaches and Machine Learning"
+    },
+    {
+        "ID":"INDENG055",
+        "Title":"Validation of the use of concept maps as an evaluation tool for the teaching and learning of mechanical and industrial engineering"
+    },
+    {
+        "ID":"INDENG056",
+        "Title":"A Comparative Study of Demand Forecasting Based on Machine Learning Methods with Time Series Approach"
+    },
+    {
+        "ID":"INDENG057",
+        "Title":"Theoretical Issues and Conceptual Framework for Physical Facilities Design in Hospital Buildings"
+    },
+    {
+        "ID":"INDENG058",
+        "Title":"The challenges, approaches, and used techniques of CPS for manufacturing in Industry 4.0: a literature review"
+    },
+    {
+        "ID":"INDENG059",
+        "Title":"The role of industrial engineers in industry"
+    },
+    {
+        "ID":"INDENG060",
+        "Title":"The Importance of Quality Control and Inspection in the Oil and Gas Sector"
+    },
+    {
+        "ID":"INDENG061",
+        "Title":"Towards cloud informed robotics"
+    },
+    {
+        "ID":"INDENG062",
+        "Title":"The Influence of Industrial Engineering in Semiconductor Fabrication Factory Optimization"
+    },
+    {
+        "ID":"INDENG063",
+        "Title":"INTEGRATING INDUSTRIAL ENGINEERING AND PETROLEUM SYSTEMS WITH LINEAR PROGRAMMING MODEL FOR FUEL EFFICIENCY AND DOWNTIME REDUCTION"
+    },
+    {
+        "ID":"INDENG064",
+        "Title":"The impact of using different lean manufacturing tools on waste reduction"
+    },
+    {
+        "ID":"INDENG065",
+        "Title":"Identification and Prioritization of Barriers to Implement Green Supply Chain Management in Industry: A Case Study in Petrochemical Company of South Pars"
+    },
+    {
+        "ID":"INDENG066",
+        "Title":"Industrial engineering solutions enhance operational efficiency in human and veterinary hospitals: a scoping review"
+    },
+    {
+        "ID":"INDENG067",
+        "Title":"Mapping and Prioritizing Barriers to Sustainable Green Supply\nChain Management: An Integrated Fuzzy MADM Approach in\nManufacturing Enterprises"
+    },
+    {
+        "ID":"INDENG068",
+        "Title":"Streaming Analytics and Predictive Maintenance: Real-Time Applications in Industrial Manufacturing Systems"
+    },
+    {
+        "ID":"INDENG069",
+        "Title":"STUDY OF ANTHROPOMETRY AND ERGONOMICS OF DESK AND CHAIR DESIGN FOR ELEMENTARY SCHOOL (CASE STUDY)"
+    },
+    {
+        "ID":"INDENG070",
+        "Title":"Optimization of Production Scheduling in Smart Manufacturing Environments"
+    },
+    {
+        "ID":"INDENG071",
+        "Title":"An empirical review of lean manufacturing and their strategies"
+    },
+    {
+        "ID":"INDENG072",
+        "Title":"The Impact of Technological Innovation on Sustainability and Competitiveness in the Food and Beverage Industry Sector"
+    },
+    {
+        "ID":"INDENG073",
+        "Title":"An Archive-Based Multi-Objective Arithmetic Optimization Algorithm for Solving Industrial Engineering Problems"
+    },
+    {
+        "ID":"INDENG074",
+        "Title":"Application of Lean Manufacturing Tools in the Food and Beverage Industries"
+    },
+    {
+        "ID":"INDENG075",
+        "Title":"Assessment of the challenges to implementing green manufacturing in the food and beverage industry: an emerging economy perspective"
+    },
+    {
+        "ID":"INDENG076",
+        "Title":"Artifical Intelligence in Industrial Engineering Review"
+    },
+    {
+        "ID":"INDENG077",
+        "Title":"Automation and robotics"
+    },
+    {
+        "ID":"INDENG078",
+        "Title":"Digital Twin applications in the food industry: a review"
+    },
+    {
+        "ID":"INDENG079",
+        "Title":"Enzyme Immobilization Technologies and Industrial Applications"
+    },
+    {
+        "ID":"INDENG080",
+        "Title":"Costs and Cost Effectiveness of Additive Manufacturing"
+    },
+    {
+        "ID":"INDENG081",
+        "Title":"Introduction to robotics"
+    },
+    {
+        "ID":"INDENG082",
+        "Title":"Fuzzy-logic-based IoMT framework for COVID19 patient monitoring"
+    },
+    {
+        "ID":"INDENG083",
+        "Title":"Industrial Engineering Approaches To Quality Control In Hybrid Manufacturing A Review Of Implementation Strategies"
+    },
+    {
+        "ID":"INDENG084",
+        "Title":"Facilities design for lean manufacturing"
+    },
+    {
+        "ID":"INDENG085",
+        "Title":"Lean Practices Implementation In Aerospace Based On Sector Characteristics: Methodology and Case Study"
+    },
+    {
+        "ID":"INDENG086",
+        "Title":"Process Safety Management Quality in Industrial Corporation for Sustainable Development"
+    },
+    {
+        "ID":"INDENG087",
+        "Title":"Process safety indicators, a review of literature"
+    },
+    {
+        "ID":"INDENG088",
+        "Title":"Risk management in the production phase of oil and gas projects: evaluating risk responses and their impact on safety and damage reduction"
+    },
+    {
+        "ID":"INDENG089",
+        "Title":"Rediscovering Scientific Management \u2013 The Evolution from Industrial Engineering to Industrial Data Science"
+    },
+    {
+        "ID":"INDENG090",
+        "Title":"Recycling municipal, agricultural and industrial waste into energy, fertilizers, food and construction materials, and economic feasibility: a review"
+    },
+    {
+        "ID":"INDENG091",
+        "Title":"Productivity optimization techniques using industrial engineering tools: A review"
+    },
+    {
+        "ID":"INDENG092",
+        "Title":"The application of continuous improvement and lean six sigma-DMAIC methodologies in pharmaceutical industry"
+    },
+    {
+        "ID":"INDENG093",
+        "Title":"Strategies for achieving carbon neutrality within the chemical industry"
+    },
+    {
+        "ID":"INDENG094",
+        "Title":"Statistical Process Control (SPC) Method to Improve the Capability Process of Drop Impact Resistance: A Case Study at Aluminum Cans Manufacturing Industry in Indonesia"
+    },
+    {
+        "ID":"INDENG095",
+        "Title":"Simulation in the design and operation of manufacturing systems: state of the art and new trends"
+    },
+    {
+        "ID":"INDENG096",
+        "Title":"Machine Learning in Manufacturing towards Industry 4.0: From \u2018For Now\u2019 to \u2018Four-Know\u2019"
+    },
+    {
+        "ID":"INDENG097",
+        "Title":"Training the Next Industrial Engineers and Managers about Industry 4.0: A Case Study about Challenges and Opportunities in the COVID-19 Era"
+    },
+    {
+        "ID":"INDENG098",
+        "Title":"Towards smart manufacturing: Implementation and benefits"
+    }
+]
