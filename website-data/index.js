@@ -2,11 +2,11 @@
 async function loadAndUseData(){
   try{
     //Wait for file to download and turn into a JS object 
-    const response = await fetch('medical_data.json');
+    const response = await fetch('./medical_data.json'); // Fetch is relative to the URL to the browser, not the JS file !!!!!!
     const data = await response.json();
     
     // Doing same step but for other file, waiting for 1st object to be created before going to next
-    const response2 = await fetch('General_data.json');
+    const response2 = await fetch('./general_data.json'); // Fetch is relative to the URL to the browser, not the JS file !!!!!!
     const data2 = await response2.json();
     
     //'data' is now available in this entire function
