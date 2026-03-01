@@ -41,7 +41,7 @@ async function loadAndUseData(){
             //Making button access when clicked, using addEventListener
             newButton.addEventListener("click", function(){
               //Basically filling the link with the name of the title for each row
-              const pdfURL = `/medical-kb/${data[i]['Pdf name']}`;
+              const pdfURL = `./website-data/medical-kb/${data[i]['Pdf name']}`;
               const newWindow = window.open(pdfURL, '_blank');
             })
             // Physically Adding the button
