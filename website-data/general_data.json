@@ -1,398 +1,497 @@
 [
     {
         "ID":"INDENG000",
-        "Title":"A Conceptual Model on People Approach and Smart Manufacturing"
+        "Title":"A Conceptual Model on People Approach and Smart Manufacturing",
+        "Pdf name":"A_Conceptual_Model_on_People_Approach_an.pdf"
     },
     {
         "ID":"INDENG001",
-        "Title":"Chemical Exposure in Workplace Environments: Assessing Health Risks and Developing Safety Measures"
+        "Title":"Chemical Exposure in Workplace Environments: Assessing Health Risks and Developing Safety Measures",
+        "Pdf name":"ChemicalExposureinWorkplaceEnvironments.pdf"
     },
     {
         "ID":"INDENG002",
-        "Title":"AI-Powered MIS for Risk Detection in Industrial Engineering Projects"
+        "Title":"AI-Powered MIS for Risk Detection in Industrial Engineering Projects",
+        "Pdf name":"AI-Powered_MIS_for_Risk_Detection_in_Industrial_Engineering_Projects.pdf"
     },
     {
         "ID":"INDENG003",
-        "Title":"Computer Integrated Manufacturing Architecture: A Literature Review"
+        "Title":"Computer Integrated Manufacturing Architecture: A Literature Review",
+        "Pdf name":"Computer_Integrated_Manufacturing_Archit.pdf"
     },
     {
         "ID":"INDENG004",
-        "Title":"Computer Integrated Manufacturing Implementation:Benefits and Challenges"
+        "Title":"Computer Integrated Manufacturing Implementation:Benefits and Challenges",
+        "Pdf name":"CIMBenefitsChallenges-OkpalaEzeanyimOgbodo.pdf"
     },
     {
         "ID":"INDENG005",
-        "Title":"Applications of Quantum Machine Learning in Large-Scale E-commerce Recommendation Systems: Enhancing Efficiency and Accuracy"
+        "Title":"Applications of Quantum Machine Learning in Large-Scale E-commerce Recommendation Systems: Enhancing Efficiency and Accuracy",
+        "Pdf name":"Applications_of_Quantum_Machine_Learning_in_Large-Scale_E-commerce_Recommendation_Systems_Enhancing_Efficiency_and_Accuracy.pdf"
     },
     {
         "ID":"INDENG006",
-        "Title":"A Review on Application of Model Based Systems Engineering to Manufacturing and Production Engineering Systems"
+        "Title":"A Review on Application of Model Based Systems Engineering to Manufacturing and Production Engineering Systems",
+        "Pdf name":"A_Review_on_Application_of_Model_Based_Systems_Engineering_to_Manufacturing_and_Production_Engineering_Systems.pdf"
     },
     {
         "ID":"INDENG007",
-        "Title":"Applications of Machine Learning in Financial Accounting for Industrial Engineering: A Case Study on Cost Estimation and Forecasting"
+        "Title":"Applications of Machine Learning in Financial Accounting for Industrial Engineering: A Case Study on Cost Estimation and Forecasting",
+        "Pdf name":"Applications_of_Machine_Learning_in_Financial_Accounting_for_Industrial_Engineering_A_Case_Study_on_Cost_Estimation_and_Forecasting.pdf"
     },
     {
         "ID":"INDENG008",
-        "Title":"Applications of Fuzzy Sets in Industrial Engineering: A Topical Classification"
+        "Title":"Applications of Fuzzy Sets in Industrial Engineering: A Topical Classification",
+        "Pdf name":"Applications_of_Fuzzy_Sets_in_Industrial_Engineeri.pdf"
     },
     {
         "ID":"INDENG009",
-        "Title":"A Rough Multi-Attributive Border Approximation Area Comparison Approach for Arc Welding Robot Selection"
+        "Title":"A Rough Multi-Attributive Border Approximation Area Comparison Approach for Arc Welding Robot Selection",
+        "Pdf name":"A_Rough_Multi-Attributive_Border_Approximation_Area.pdf"
     },
     {
         "ID":"INDENG010",
-        "Title":"A New Perspective on Digital Twin-Based Mechanical Design in Industrial Engineering"
+        "Title":"A New Perspective on Digital Twin-Based Mechanical Design in Industrial Engineering",
+        "Pdf name":"A_New_Perspective_on_Digital_Twin-Based_Mechanical_Design_in_Industrial_Engineering.pdf"
     },
     {
         "ID":"INDENG011",
-        "Title":"An overview on robotics and control systems"
+        "Title":"An overview on robotics and control systems",
+        "Pdf name":"AN_OVERVIEW_ON_ROBOTICS_AND__CONTROL__SYSTEMS.pdf"
     },
     {
         "ID":"INDENG012",
-        "Title":"A Design Of An Automated Assessment Process For The Outcomes-Based Education In The Industrial Engineering Department Of The Faculty Of Engineering At The University Of Santo Tomas"
+        "Title":"A Design Of An Automated Assessment Process For The Outcomes-Based Education In The Industrial Engineering Department Of The Faculty Of Engineering At The University Of Santo Tomas",
+        "Pdf name":"A_Design_Of_An_Automated_Assessment_Process_For_The_Outcomes-Based_Education_In_The_Industrial_Engineering_Department_Of_The_Faculty_Of_Engineering_At_The_University_Of_Santo_Tomas.pdf"
     },
     {
         "ID":"INDENG013",
-        "Title":"Design for Safety and Human Factors in Industrial Engineering: a review towards a unified framework"
+        "Title":"Design for Safety and Human Factors in Industrial Engineering: a review towards a unified framework",
+        "Pdf name":"Design_for_Safety_and_Human_Factors_in_Industrial_Engineering-_a_review_towards_a_unified_framework.pdf"
     },
     {
         "ID":"INDENG014",
-        "Title":"Industrial Engineering is a Mindset, not a Methodology"
+        "Title":"Industrial Engineering is a Mindset, not a Methodology",
+        "Pdf name":"Industrial_Engineering_is_a_Mindset,_not_a_Methodology.pdf"
     },
     {
         "ID":"INDENG015",
-        "Title":"Flexible manufacturing system"
+        "Title":"Flexible Manufacturing System A Modern Approach To Manufacturing Technology",
+        "Pdf name":"Flexible_Manufacturing_System_A_Modern_A.pdf"
     },
     {
         "ID":"INDENG016",
-        "Title":"Flexible manufacturing systems: industry 4.0 solution"
+        "Title":"Flexible manufacturing system",
+        "Pdf name":"Flexible_manufacturing_system.pdf"
     },
     {
         "ID":"INDENG017",
-        "Title":"Additive Manufacturing: Status and Opportunities"
+        "Title":"Additive Manufacturing: Status and Opportunities",
+        "Pdf name":"IDA_Additive_33012_Final.pdf"
     },
     {
         "ID":"INDENG018",
-        "Title":"Industrial Engineering Studies: Ergonomics Essences in the Systems Approach"
+        "Title":"Industrial Engineering Studies: Ergonomics Essences in the Systems Approach",
+        "Pdf name":"Industrial_engineerin_studies.pdf"
     },
     {
         "ID":"INDENG019",
-        "Title":"Big data driven innovation for sustaining SME supply chain operation in post COVID-19 scenario: Moderating role of SME technology leadership"
+        "Title":"Big data driven innovation for sustaining SME supply chain operation in post COVID-19 scenario: Moderating role of SME technology leadership",
+        "Pdf name":"Big_data_driven_innovation_for_sustaining_SME_supply_chain_operation_in.pdf"
     },
     {
         "ID":"INDENG020",
-        "Title":"A Review on Implementation of 5S for Workplace Management"
+        "Title":"A Review on Implementation of 5S for Workplace Management",
+        "Pdf name":"A_Review_on_Implementation_of_5S_for_Workplace_Management.pdf"
     },
     {
         "ID":"INDENG021",
-        "Title":"Basics, applications, and future of additive manufacturing technologies: a review"
+        "Title":"Basics, applications, and future of additive manufacturing technologies: a review",
+        "Pdf name":"Additive_manufacturing.pdf"
     },
     {
         "ID":"INDENG022",
-        "Title":"Fuzzy methods in decision making process - A particular approach in manufacturing systems"
+        "Title":"Fuzzy methods in decision making process - A particular approach in manufacturing systems",
+        "Pdf name":"Fuzzy_methods_in_decision_making_process_-_A_parti.pdf"
     },
     {
         "ID":"INDENG023",
-        "Title":"Dependability and reliability and reliability of manufacturing systems"
+        "Title":"Dependability and reliability and reliability of manufacturing systems",
+        "Pdf name":"Dependability_and_reliability_manufacturing_systems.pdf"
     },
     {
         "ID":"INDENG024",
-        "Title":"Cognitive Linguistics Theory in Anthropocentric Paradigm"
+        "Title":"Cognitive Linguistics Theory in Anthropocentric Paradigm",
+        "Pdf name":"Cognitive_Linguistics_Theory_in_Anthropocentric_Paradigm.pdf"
     },
     {
         "ID":"INDENG025",
-        "Title":"Analysis of Industrial Engineering Students\u2019 Perception after a Multiple Integrals-Based Activity with a Fourth-Year Student"
+        "Title":"Analysis of Industrial Engineering Students\u2019 Perception after a Multiple Integrals-Based Activity with a Fourth-Year Student",
+        "Pdf name":"Analysis_of_Industrial_Engineering_Students\u2019_Perception_after_a_Multiple_Integrals-Based_Activity_with_a_Fourth-Year_Student.pdf"
     },
     {
         "ID":"INDENG026",
-        "Title":"Designing Facilities Layout for Small and Medium Enterprises"
+        "Title":"Designing Facilities Layout for Small and Medium Enterprises",
+        "Pdf name":"Designing_Facilities_Layout_for_Small_an.pdf"
     },
     {
         "ID":"INDENG027",
-        "Title":"Data analytics - is it industrial engineering reborn?"
+        "Title":"Data analytics - is it industrial engineering reborn?",
+        "Pdf name":"Data_analytics_-_is_it_industrial_engineering_reborn.pdf"
     },
     {
         "ID":"INDENG028",
-        "Title":"Flexible Manufacturing System A Modern Approach To Manufacturing Technology"
+        "Title":"Flexible manufacturing systems: industry 4.0 solution",
+        "Pdf name":"FMS_4.pdf"
     },
     {
         "ID":"INDENG029",
-        "Title":"Circular economy strategies in industrial engineering: From theory to practice"
+        "Title":"Circular economy strategies in industrial engineering: From theory to practice",
+        "Pdf name":"Circular_economy_strategies_in_industrial_engineering_From_theory_to_practice.pdf"
     },
     {
         "ID":"INDENG030",
-        "Title":"Analysing the market for digital payments in India using the predator-prey model"
+        "Title":"Analysing the market for digital payments in India using the predator-prey model",
+        "Pdf name":"Analysing_the_market_for_digital_payments_in_India_using_the.pdf"
     },
     {
         "ID":"INDENG031",
-        "Title":"Additive Manufacturing in Automobile Industry"
+        "Title":"Additive Manufacturing in Automobile Industry",
+        "Pdf name":"Additive_Manufacturing_in_Automobile_Ind.pdf"
     },
     {
         "ID":"INDENG032",
-        "Title":"A Model of the Factors Affecting Supply Chain Resilience: An Integrative Approach Incorporating Hesitant Fuzzy TOPSIS and Meta-Synthesis"
+        "Title":"A Model of the Factors Affecting Supply Chain Resilience: An Integrative Approach Incorporating Hesitant Fuzzy TOPSIS and Meta-Synthesis",
+        "Pdf name":"A_Model_of_the_Factors_Affecting_Supply_Chain_Resilience-_An_Integrative_Approach_Incorporating_Hesitant_Fuzzy_TOPSIS_and_Meta-Synthesis.pdf"
     },
     {
         "ID":"INDENG033",
-        "Title":"A bibliometric research of Industry 4.0 opportunities in Industrial Engineering"
+        "Title":"A bibliometric research of Industry 4.0 opportunities in Industrial Engineering",
+        "Pdf name":"A_bibliometric_research_of_Industry_4.0_opportunities_in_Industrial_Engineering_copy.pdf"
     },
     {
         "ID":"INDENG034",
-        "Title":"Data Mining-driven Manufacturing Process Optimization"
+        "Title":"Data Mining-driven Manufacturing Process Optimization",
+        "Pdf name":"Data_Mining_driven_Manufacturing_Process.pdf"
     },
     {
         "ID":"INDENG035",
-        "Title":"Optimizing Oil Production through Agile Project Execution Frameworks in Complex Energy Sector Challenges"
+        "Title":"Optimizing Oil Production through Agile Project Execution Frameworks in Complex Energy Sector Challenges",
+        "Pdf name":"Optimizing_Oil_Production_through_Agile_Project_Execution_Frameworks_in_Complex_Energy_Sector_Challenges.pdf"
     },
     {
         "ID":"INDENG036",
-        "Title":"Process safety and abnormal situation management"
+        "Title":"Process safety and abnormal situation management",
+        "Pdf name":"Process_safety_and_abnormal_situation_management.pdf"
     },
     {
         "ID":"INDENG037",
-        "Title":"Smart Manufacturing: Latest Technologies And Applications In Industrial Engineering"
+        "Title":"Smart Manufacturing: Latest Technologies And Applications In Industrial Engineering",
+        "Pdf name":"Smart_Manufacturing_Latest_Technologies_And_Applications_In_Industrial_Engineering.pdf"
     },
     {
         "ID":"INDENG038",
-        "Title":"International Journal of Industrial Engineering Computations"
+        "Title":"International Journal of Industrial Engineering Computations",
+        "Pdf name":"International_Journal_of_Industrial_Engineering_Computations.pdf"
     },
     {
         "ID":"INDENG039",
-        "Title":"Resilience and Risk Management in Social Robot Systems: An Industrial Engineering Perspective"
+        "Title":"Resilience and Risk Management in Social Robot Systems: An Industrial Engineering Perspective",
+        "Pdf name":"Resilience_and_Risk_Management_in_Social_Robot_Systems_An_Industrial_Engineering_Perspective.pdf"
     },
     {
         "ID":"INDENG040",
-        "Title":"Productivity Improvement by Implementing Lean Manufacturing Tools In Manufacturing Industry"
+        "Title":"Productivity Improvement by Implementing Lean Manufacturing Tools In Manufacturing Industry",
+        "Pdf name":"Productivity_Improvement_by_Implementing.pdf"
     },
     {
         "ID":"INDENG041",
-        "Title":"Machine Learning Techniques for Smart Manufacturing: Applications and Challenges in Industry 4.0"
+        "Title":"Machine Learning Techniques for Smart Manufacturing: Applications and Challenges in Industry 4.0",
+        "Pdf name":"MachineLearningTechniquesforSmartManufacturing.pdf"
     },
     {
         "ID":"INDENG042",
-        "Title":"Smart Manufacturing And Robotics: Revolutionizing The Production Floor With Advanced Robotics"
+        "Title":"Smart Manufacturing And Robotics: Revolutionizing The Production Floor With Advanced Robotics",
+        "Pdf name":"Smart_manufacturing_and_robotics.pdf"
     },
     {
         "ID":"INDENG043",
-        "Title":"Industrial energy use, efficiency, and savings: methods for quantitative analysis"
+        "Title":"Industrial energy use, efficiency, and savings: methods for quantitative analysis",
+        "Pdf name":"Industrial_energy_use,_efficiency,_and_savings__methods_for_quantitative_analysis.pdf"
     },
     {
         "ID":"INDENG044",
-        "Title":"Smart manufacturing with prescriptive analytics"
+        "Title":"Smart manufacturing with prescriptive analytics",
+        "Pdf name":"Smartmanufacturing_analytics.pdf"
     },
     {
         "ID":"INDENG045",
-        "Title":"Integration Between Occupational and Process Safety: Existing Approaches and Challenges for an Enhanced Framework"
+        "Title":"Integration Between Occupational and Process Safety: Existing Approaches and Challenges for an Enhanced Framework",
+        "Pdf name":"Integration_Between_Occupational_and_Process_Safety-_Existing_Approaches_and_Challenges_for_an_Enhanced_Framework_.pdf"
     },
     {
         "ID":"INDENG046",
-        "Title":"Improving on Machine Reliability and Productivity Through Data Analysis"
+        "Title":"Improving on Machine Reliability and Productivity Through Data Analysis",
+        "Pdf name":"Improving_machine_reliability.pdf"
     },
     {
         "ID":"INDENG047",
-        "Title":"Measurement of psychological impact of industrial engineering students in fulfillment of online learning outcomes using NASA-TLX method"
+        "Title":"Measurement of psychological impact of industrial engineering students in fulfillment of online learning outcomes using NASA-TLX method",
+        "Pdf name":"Measurement_of_psychological_impact_of_industrial_engineering_students_in_fulfiil_of_online_learning_outcomes_using_NASA-TLX_method.pdf"
     },
     {
         "ID":"INDENG048",
-        "Title":"Industry 4.0: Some Challenges and Opportunities for Reliability Engineering"
+        "Title":"Industry 4.0: Some Challenges and Opportunities for Reliability Engineering",
+        "Pdf name":"Industry_4_0_Some_Challenges_and_Opportu.pdf"
     },
     {
         "ID":"INDENG049",
-        "Title":"Integrated Facility Layout And Material Handling System Design In Semiconductor Fabrication Facilities"
+        "Title":"Integrated Facility Layout And Material Handling System Design In Semiconductor Fabrication Facilities",
+        "Pdf name":"Integrated_Facility_Layout_And_Material_Handling_System_Design_In_Semiconductor_Fabrication_Facilities.pdf"
     },
     {
         "ID":"INDENG050",
-        "Title":"A Literature Review on the Evolution of Lean Manufacturing"
+        "Title":"A Literature Review on the Evolution of Lean Manufacturing",
+        "Pdf name":"Lit_review_lean_evolution.pdf"
     },
     {
         "ID":"INDENG051",
-        "Title":"Lean manufacturing best practices in SMEs"
+        "Title":"Lean manufacturing best practices in SMEs",
+        "Pdf name":"Lean_best_practices.pdf"
     },
     {
         "ID":"INDENG052",
-        "Title":"Design and Implementation of Computer Integrated Manufacturing in Small and Medium-Sized Enterprises: A Case Study"
+        "Title":"Design and Implementation of Computer Integrated Manufacturing in Small and Medium-Sized Enterprises: A Case Study",
+        "Pdf name":"Design_and_Implementation_of_Computer_In.pdf"
     },
     {
         "ID":"INDENG053",
-        "Title":"Implementation of Measurement System Analysis to Reduce Measurement Process Failures on Part Reinf BK6"
+        "Title":"Implementation of Measurement System Analysis to Reduce Measurement Process Failures on Part Reinf BK6",
+        "Pdf name":"Implementation_of_Measurement_System_Analysis.pdf"
     },
     {
         "ID":"INDENG054",
-        "Title":"Advancements in Optimization for Automotive Manufacturing: Hybrid Approaches and Machine Learning"
+        "Title":"Advancements in Optimization for Automotive Manufacturing: Hybrid Approaches and Machine Learning",
+        "Pdf name":"Advancements_in_Optimization_for_Automotive_Manufacturing_Hybrid_Approaches_and_Machine_Learning.pdf"
     },
     {
         "ID":"INDENG055",
-        "Title":"Validation of the use of concept maps as an evaluation tool for the teaching and learning of mechanical and industrial engineering"
+        "Title":"Validation of the use of concept maps as an evaluation tool for the teaching and learning of mechanical and industrial engineering",
+        "Pdf name":"Validation_of_the_use_of_concept_maps_as_an_evaluation_tool_for_the_teaching_and_learning_of_mechanical_and_industrial_engineering.pdf"
     },
     {
         "ID":"INDENG056",
-        "Title":"A Comparative Study of Demand Forecasting Based on Machine Learning Methods with Time Series Approach"
+        "Title":"A Comparative Study of Demand Forecasting Based on Machine Learning Methods with Time Series Approach",
+        "Pdf name":"A_Comparative_Study_of_Demand_Forecasting_Based_on_Machine_Learning_Methods_with_Time_Series_Approach.pdf"
     },
     {
         "ID":"INDENG057",
-        "Title":"Theoretical Issues and Conceptual Framework for Physical Facilities Design in Hospital Buildings"
+        "Title":"Theoretical Issues and Conceptual Framework for Physical Facilities Design in Hospital Buildings",
+        "Pdf name":"Theoretical_Issues_and_Conceptual_Framew.pdf"
     },
     {
         "ID":"INDENG058",
-        "Title":"The challenges, approaches, and used techniques of CPS for manufacturing in Industry 4.0: a literature review"
+        "Title":"The challenges, approaches, and used techniques of CPS for manufacturing in Industry 4.0: a literature review",
+        "Pdf name":"The_challenges,_approaches,_and_used_techniques_of_CPS_for_manufacturing_in_Industry_4.0_a_literature_review.pdf"
     },
     {
         "ID":"INDENG059",
-        "Title":"The role of industrial engineers in industry"
+        "Title":"The role of industrial engineers in industry",
+        "Pdf name":"THE_ROLE_OF_INDUSTRIAL_ENGINEERS_IN_INDUSRTY.pdf"
     },
     {
         "ID":"INDENG060",
-        "Title":"The Importance of Quality Control and Inspection in the Oil and Gas Sector"
+        "Title":"The Importance of Quality Control and Inspection in the Oil and Gas Sector",
+        "Pdf name":"The_Importance_of_Quality_Control_and_Inspection_in_the_Oil_and_Gas_Sector.pdf"
     },
     {
         "ID":"INDENG061",
-        "Title":"Towards cloud informed robotics"
+        "Title":"Towards cloud informed robotics",
+        "Pdf name":"Towards_Cloud_Informed_Robotics.pdf"
     },
     {
         "ID":"INDENG062",
-        "Title":"The Influence of Industrial Engineering in Semiconductor Fabrication Factory Optimization"
+        "Title":"The Influence of Industrial Engineering in Semiconductor Fabrication Factory Optimization",
+        "Pdf name":"The_Influence_of_Industrial_Engineering_in_Semiconductor_Fabrication_Factory_Optimization.pdf"
     },
     {
         "ID":"INDENG063",
-        "Title":"INTEGRATING INDUSTRIAL ENGINEERING AND PETROLEUM SYSTEMS WITH LINEAR PROGRAMMING MODEL FOR FUEL EFFICIENCY AND DOWNTIME REDUCTION"
+        "Title":"INTEGRATING INDUSTRIAL ENGINEERING AND PETROLEUM SYSTEMS WITH LINEAR PROGRAMMING MODEL FOR FUEL EFFICIENCY AND DOWNTIME REDUCTION",
+        "Pdf name":"INTEGRATING_INDUSTRIAL_ENGINEERING_AND_PETROLEUM_SYSTEMS_WITH_LINEAR_PROGRAMMING_MODEL_FOR_FUEL_EFFICIENCY_AND_DOWNTIME_REDUCTION.pdf"
     },
     {
         "ID":"INDENG064",
-        "Title":"The impact of using different lean manufacturing tools on waste reduction"
+        "Title":"The impact of using different lean manufacturing tools on waste reduction",
+        "Pdf name":"The_impact_of_different_lean_tools.pdf"
     },
     {
         "ID":"INDENG065",
-        "Title":"Identification and Prioritization of Barriers to Implement Green Supply Chain Management in Industry: A Case Study in Petrochemical Company of South Pars"
+        "Title":"Identification and Prioritization of Barriers to Implement Green Supply Chain Management in Industry: A Case Study in Petrochemical Company of South Pars",
+        "Pdf name":"Identification_and_Prioritization_of_Barriers_to_Implement_Green_Supply_Chain_Management_in_Industry.pdf"
     },
     {
         "ID":"INDENG066",
-        "Title":"Industrial engineering solutions enhance operational efficiency in human and veterinary hospitals: a scoping review"
+        "Title":"Industrial engineering solutions enhance operational efficiency in human and veterinary hospitals: a scoping review",
+        "Pdf name":"Industrial_engineering_solutions_enhance_operational_efficiency_in_human_and_veterinary_hospitals-_a_scoping_review.pdf"
     },
     {
         "ID":"INDENG067",
-        "Title":"Mapping and Prioritizing Barriers to Sustainable Green Supply\nChain Management: An Integrated Fuzzy MADM Approach in\nManufacturing Enterprises"
+        "Title":"Mapping and Prioritizing Barriers to Sustainable Green SupplyChain Management: An Integrated Fuzzy MADM Approach inManufacturing Enterprises",
+        "Pdf name":"Mapping_and_Prioritizing_Barriers_to_Sustainable_Green_Supply_Chain_Management.pdf"
     },
     {
         "ID":"INDENG068",
-        "Title":"Streaming Analytics and Predictive Maintenance: Real-Time Applications in Industrial Manufacturing Systems"
+        "Title":"Streaming Analytics and Predictive Maintenance: Real-Time Applications in Industrial Manufacturing Systems",
+        "Pdf name":"Streaming_Analytics_and_Predictive_Maintenance_Real-Time_Applications_in.pdf"
     },
     {
         "ID":"INDENG069",
-        "Title":"STUDY OF ANTHROPOMETRY AND ERGONOMICS OF DESK AND CHAIR DESIGN FOR ELEMENTARY SCHOOL (CASE STUDY)"
+        "Title":"STUDY OF ANTHROPOMETRY AND ERGONOMICS OF DESK AND CHAIR DESIGN FOR ELEMENTARY SCHOOL (CASE STUDY)",
+        "Pdf name":"Study_of_Anthropometry_and_Ergonomics_of.pdf"
     },
     {
         "ID":"INDENG070",
-        "Title":"Optimization of Production Scheduling in Smart Manufacturing Environments"
+        "Title":"Optimization of Production Scheduling in Smart Manufacturing Environments",
+        "Pdf name":"OptimizationofProductionSchedulinginSmartManufacturingEnvironmentsUsingMachineLearningAlgorithms.pdf"
     },
     {
         "ID":"INDENG071",
-        "Title":"An empirical review of lean manufacturing and their strategies"
+        "Title":"An empirical review of lean manufacturing and their strategies",
+        "Pdf name":"Emprical_review_of_lean.pdf"
     },
     {
         "ID":"INDENG072",
-        "Title":"The Impact of Technological Innovation on Sustainability and Competitiveness in the Food and Beverage Industry Sector"
+        "Title":"The Impact of Technological Innovation on Sustainability and Competitiveness in the Food and Beverage Industry Sector",
+        "Pdf name":"The_Impact_of_Technological_Innovation_on_Sustaina.pdf"
     },
     {
         "ID":"INDENG073",
-        "Title":"An Archive-Based Multi-Objective Arithmetic Optimization Algorithm for Solving Industrial Engineering Problems"
+        "Title":"An Archive-Based Multi-Objective Arithmetic Optimization Algorithm for Solving Industrial Engineering Problems",
+        "Pdf name":"An_Archive-Based_Multi-Objective_Arithmetic_Optimization_Algorithm_for_Solving_Industrial_Engineering_Problems.pdf"
     },
     {
         "ID":"INDENG074",
-        "Title":"Application of Lean Manufacturing Tools in the Food and Beverage Industries"
+        "Title":"Application of Lean Manufacturing Tools in the Food and Beverage Industries",
+        "Pdf name":"Application_of_Lean_Manufacturing_Tools_in_the_Foo.pdf"
     },
     {
         "ID":"INDENG075",
-        "Title":"Assessment of the challenges to implementing green manufacturing in the food and beverage industry: an emerging economy perspective"
+        "Title":"Assessment of the challenges to implementing green manufacturing in the food and beverage industry: an emerging economy perspective",
+        "Pdf name":"Assessment_of_the_challenges_to_implementing_green_manufacturing_in_the_food_and_beverage_industry-_an_emerging_economy_perspective.pdf"
     },
     {
         "ID":"INDENG076",
-        "Title":"Artifical Intelligence in Industrial Engineering Review"
+        "Title":"Artifical Intelligence in Industrial Engineering Review",
+        "Pdf name":"ArtificialIntelligenceinIndustrialEngineeringAReview.pdf"
     },
     {
         "ID":"INDENG077",
-        "Title":"Automation and robotics"
+        "Title":"Automation and robotics",
+        "Pdf name":"Automation_and_robotics.pdf"
     },
     {
         "ID":"INDENG078",
-        "Title":"Digital Twin applications in the food industry: a review"
+        "Title":"Digital Twin applications in the food industry: a review",
+        "Pdf name":"Digital_Twin_applications_in_the_food_industry.pdf"
     },
     {
         "ID":"INDENG079",
-        "Title":"Enzyme Immobilization Technologies and Industrial Applications"
+        "Title":"Enzyme Immobilization Technologies and Industrial Applications",
+        "Pdf name":"Enzyme_Immobilization_Technologies_and_Industrial_Applications.pdf"
     },
     {
         "ID":"INDENG080",
-        "Title":"Costs and Cost Effectiveness of Additive Manufacturing"
+        "Title":"Costs and Cost Effectiveness of Additive Manufacturing",
+        "Pdf name":"Costs_and_Cost_Effectiveness_of_Additive_Manufacturing.pdf"
     },
     {
         "ID":"INDENG081",
-        "Title":"Introduction to robotics"
+        "Title":"Introduction to robotics",
+        "Pdf name":"Intro_to_robotics.pdf"
     },
     {
         "ID":"INDENG082",
-        "Title":"Fuzzy-logic-based IoMT framework for COVID19 patient monitoring"
+        "Title":"Fuzzy-logic-based IoMT framework for COVID19 patient monitoring",
+        "Pdf name":"Fuzzy-logic-based_IoMT_framework_for_COVID19_patient_monitoring.pdf"
     },
     {
         "ID":"INDENG083",
-        "Title":"Industrial Engineering Approaches To Quality Control In Hybrid Manufacturing A Review Of Implementation Strategies"
+        "Title":"Industrial Engineering Approaches To Quality Control In Hybrid Manufacturing A Review Of Implementation Strategies",
+        "Pdf name":"INDUSTRIAL_ENGINEERING_APPROACHES_TO_QUALITY_CONTROL_IN_HYBRID_MANUFACTURING_A_REVIEW_OF_IMPLEMENTATION_STRATEGIES.pdf"
     },
     {
         "ID":"INDENG084",
-        "Title":"Facilities design for lean manufacturing"
+        "Title":"Facilities design for lean manufacturing",
+        "Pdf name":"Facilities_design_for_lean_manufacturing.pdf"
     },
     {
         "ID":"INDENG085",
-        "Title":"Lean Practices Implementation In Aerospace Based On Sector Characteristics: Methodology and Case Study"
+        "Title":"Lean Practices Implementation In Aerospace Based On Sector Characteristics: Methodology and Case Study",
+        "Pdf name":"Lean_practices_implementation_in_aerospace_based_on_sector_characteristics-_methodology_and_case_study.pdf"
     },
     {
         "ID":"INDENG086",
-        "Title":"Process Safety Management Quality in Industrial Corporation for Sustainable Development"
+        "Title":"Process Safety Management Quality in Industrial Corporation for Sustainable Development",
+        "Pdf name":"Process_Safety_Management_Quality_in_Industrial_Co.pdf"
     },
     {
         "ID":"INDENG087",
-        "Title":"Process safety indicators, a review of literature"
+        "Title":"Process safety indicators, a review of literature",
+        "Pdf name":"Process_safety_indicators,_a_review_of_literature.pdf"
     },
     {
         "ID":"INDENG088",
-        "Title":"Risk management in the production phase of oil and gas projects: evaluating risk responses and their impact on safety and damage reduction"
+        "Title":"Risk management in the production phase of oil and gas projects: evaluating risk responses and their impact on safety and damage reduction",
+        "Pdf name":"Risk_management_in_the_production_phase_of_oil_and.pdf"
     },
     {
         "ID":"INDENG089",
-        "Title":"Rediscovering Scientific Management \u2013 The Evolution from Industrial Engineering to Industrial Data Science"
+        "Title":"Rediscovering Scientific Management \u2013 The Evolution from Industrial Engineering to Industrial Data Science",
+        "Pdf name":"Rediscovering_Scientific_Management_-_The_Evolution_from_Industrial_Engineering_to_Industrial_Data_Science.pdf"
     },
     {
         "ID":"INDENG090",
-        "Title":"Recycling municipal, agricultural and industrial waste into energy, fertilizers, food and construction materials, and economic feasibility: a review"
+        "Title":"Recycling municipal, agricultural and industrial waste into energy, fertilizers, food and construction materials, and economic feasibility: a review",
+        "Pdf name":"Recycling_municipal,_agricultural_and_industrial_waste_into_energy_fertilizers_food_and_construction_materials_and_economic_feasibility_a_review.pdf"
     },
     {
         "ID":"INDENG091",
-        "Title":"Productivity optimization techniques using industrial engineering tools: A review"
+        "Title":"Productivity optimization techniques using industrial engineering tools: A review",
+        "Pdf name":"Productivity_optimization_techniques_usi.pdf"
     },
     {
         "ID":"INDENG092",
-        "Title":"The application of continuous improvement and lean six sigma-DMAIC methodologies in pharmaceutical industry"
+        "Title":"The application of continuous improvement and lean six sigma-DMAIC methodologies in pharmaceutical industry",
+        "Pdf name":"The_application_of_continuous_improvement_and_lean_six_sigma-DMAIC_methodologies_in_pharmaceutical_industry.pdf"
     },
     {
         "ID":"INDENG093",
-        "Title":"Strategies for achieving carbon neutrality within the chemical industry"
+        "Title":"Strategies for achieving carbon neutrality within the chemical industry",
+        "Pdf name":"Strategies_for_achieving_carbon_neutrality_within_the_chemical_industry.pdf"
     },
     {
         "ID":"INDENG094",
-        "Title":"Statistical Process Control (SPC) Method to Improve the Capability Process of Drop Impact Resistance: A Case Study at Aluminum Cans Manufacturing Industry in Indonesia"
+        "Title":"Statistical Process Control (SPC) Method to Improve the Capability Process of Drop Impact Resistance: A Case Study at Aluminum Cans Manufacturing Industry in Indonesia",
+        "Pdf name":"Statistical_Process_Control_(SPC)_Method_to_Improve_the_Capability_Process_of_Drop_Impact_Resistance.pdf"
     },
     {
         "ID":"INDENG095",
-        "Title":"Simulation in the design and operation of manufacturing systems: state of the art and new trends"
+        "Title":"Simulation in the design and operation of manufacturing systems: state of the art and new trends",
+        "Pdf name":"Simulation_in_the_design_and_operation_of_manufacturing_systems_state_of_the_art_and_new_trends.pdf"
     },
     {
         "ID":"INDENG096",
-        "Title":"Machine Learning in Manufacturing towards Industry 4.0: From \u2018For Now\u2019 to \u2018Four-Know\u2019"
+        "Title":"Machine Learning in Manufacturing towards Industry 4.0: From \u2018For Now\u2019 to \u2018Four-Know\u2019",
+        "Pdf name":"Machine_Learning_in_Manufacturing_towards_Industry_4.0-_From_\u2018For_Now\u2019_to_\u2018Four-Know\u2019.pdf"
     },
     {
         "ID":"INDENG097",
-        "Title":"Training the Next Industrial Engineers and Managers about Industry 4.0: A Case Study about Challenges and Opportunities in the COVID-19 Era"
+        "Title":"Training the Next Industrial Engineers and Managers about Industry 4.0: A Case Study about Challenges and Opportunities in the COVID-19 Era",
+        "Pdf name":"Training_the_Next_Industrial_Engineers_and_Managers_about_Industry_4.0_A_Case_Study_about_Challenges_and_Opportunities_in_the_COVID-19_Era.pdf"
     },
     {
         "ID":"INDENG098",
-        "Title":"Towards smart manufacturing: Implementation and benefits"
+        "Title":"Towards smart manufacturing: Implementation and benefits",
+        "Pdf name":"Towards_smart_manufacturing.pdf"
     }
 ]

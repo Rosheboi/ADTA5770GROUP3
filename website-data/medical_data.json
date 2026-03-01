@@ -1,202 +1,252 @@
 [
     {
         "ID":"Medical_01",
-        "Title":"Vaccine Development Throughout History"
+        "Title":"Vaccine Development Throughout History",
+        "Pdf name":"Medical_01.pdf"
     },
     {
         "ID":"Medical_02",
-        "Title":"Stimulants and Society"
+        "Title":"Stimulants and Society",
+        "Pdf name":"Medical_02.pdf"
     },
     {
         "ID":"Medical_03",
-        "Title":"Review on antibiotic resistance and its mechanism of\u00a0development"
+        "Title":"Review on antibiotic resistance and its mechanism of\u00a0development",
+        "Pdf name":"Medical_03.pdf"
     },
     {
         "ID":"Medical_04",
-        "Title":"Review on Public Health Aspects of Processed Foods"
+        "Title":"Review on Public Health Aspects of Processed Foods",
+        "Pdf name":"Medical_04.pdf"
     },
     {
         "ID":"Medical_05",
-        "Title":"Processed and Ultra-processed Food"
+        "Title":"Processed and Ultra-processed Food",
+        "Pdf name":"Medical_05.pdf"
     },
     {
         "ID":"Medical_06",
-        "Title":"Physical Activity in the Prevention and Management of High Blood Pressure"
+        "Title":"Physical Activity in the Prevention and Management of High Blood Pressure",
+        "Pdf name":"Medical_06.pdf"
     },
     {
         "ID":"Medical_07",
-        "Title":"Impact of Lifestyle: Modifications on Cardiovascular Health: A Narrative review"
+        "Title":"Impact of Lifestyle: Modifications on Cardiovascular Health: A Narrative review",
+        "Pdf name":"Medical_07.pdf"
     },
     {
         "ID":"Medical_08",
-        "Title":"How Long Will a Vaccine Really Take"
+        "Title":"How Long Will a Vaccine Really Take",
+        "Pdf name":"Medical_08.pdf"
     },
     {
         "ID":"Medical_09",
-        "Title":"Gender Differences in mental health "
+        "Title":"Gender Differences in mental health ",
+        "Pdf name":"Medical_09.pdf"
     },
     {
         "ID":"Medical_10",
-        "Title":"Future cure for cancer"
+        "Title":"Future cure for cancer",
+        "Pdf name":"Medical_10.pdf"
     },
     {
         "ID":"Medical_11",
-        "Title":"Diet and Cancer"
+        "Title":"Diet and Cancer",
+        "Pdf name":"Medical_11.pdf"
     },
     {
         "ID":"Medical_12",
-        "Title":"Diabetes Mellitus: A Review"
+        "Title":"Diabetes Mellitus: A Review",
+        "Pdf name":"Medical_12.pdf"
     },
     {
         "ID":"Medical_13",
-        "Title":"Depression: A review of its definition"
+        "Title":"Depression: A review of its definition",
+        "Pdf name":"Medical_13.pdf"
     },
     {
         "ID":"Medical_14",
-        "Title":"Comparing the Abuse Potential of Methylphenidate Versus Other Stimulants: A Review of Available Evidence and Relevance to the ADHD Patient"
+        "Title":"Comparing the Abuse Potential of Methylphenidate Versus Other Stimulants: A Review of Available Evidence and Relevance to the ADHD Patient",
+        "Pdf name":"Medical_14.pdf"
     },
     {
         "ID":"Medical_15",
-        "Title":"Cancer causes and treatments"
+        "Title":"Cancer causes and treatments",
+        "Pdf name":"Medical_15.pdf"
     },
     {
         "ID":"Medical_16",
-        "Title":"A brief Overview of Diabetes"
+        "Title":"A brief Overview of Diabetes",
+        "Pdf name":"Medical_16.pdf"
     },
     {
         "ID":"Medical_17",
-        "Title":"Antibiotic resistance crisis"
+        "Title":"Antibiotic resistance crisis",
+        "Pdf name":"Medical_17.pdf"
     },
     {
         "ID":"Medical_18",
-        "Title":null
+        "Title":"Viral Infections and Risk of Cardiovascular Disease",
+        "Pdf name":"Medical_18.pdf"
     },
     {
         "ID":"Medical_19",
-        "Title":null
+        "Title":"Vaccination for prevention of hearing loss a scoping review",
+        "Pdf name":"Medical_19.pdf"
     },
     {
         "ID":"Medical_20",
-        "Title":null
+        "Title":"The role of health systems in shaping vaccine decisions",
+        "Pdf name":"Medical_20.pdf"
     },
     {
         "ID":"Medical_21",
-        "Title":null
+        "Title":"The potential of machine learning in diagnosing neurological and psychiatric diseases- a review",
+        "Pdf name":"Medical_21.pdf"
     },
     {
         "ID":"Medical_22",
-        "Title":null
+        "Title":"Revolutionizing immunization- a comprehensive review of mRNA vaccine technology and applications",
+        "Pdf name":"Medical_22.pdf"
     },
     {
         "ID":"Medical_23",
-        "Title":null
+        "Title":"Relationship between aggregation of therapeutic proteins and",
+        "Pdf name":"Medical_23.pdf"
     },
     {
         "ID":"Medical_24",
-        "Title":null
+        "Title":"Psychedelic-assisted therapy- An overview for the internist",
+        "Pdf name":"Medical_24.pdf"
     },
     {
         "ID":"Medical_25",
-        "Title":null
+        "Title":"Pharmaceutical nanotechnology from the bench to the market",
+        "Pdf name":"Medical_25.pdf"
     },
     {
         "ID":"Medical_26",
-        "Title":null
+        "Title":"Oxypeucedanin and isoimperatorin extracted from Prangos ferulacea",
+        "Pdf name":"Medical_26.pdf"
     },
     {
         "ID":"Medical_27",
-        "Title":null
+        "Title":"Molecular mastery- Harnessing DNA technology for disease prevention",
+        "Pdf name":"Medical_27.pdf"
     },
     {
         "ID":"Medical_28",
-        "Title":null
+        "Title":"Modern Milestones- The Evolution of Allopathic Medicine",
+        "Pdf name":"Medical_28.pdf"
     },
     {
         "ID":"Medical_29",
-        "Title":null
+        "Title":"Mitochondrial DNA and Its Applications in Forensic Medicine and Medical Diagnosis_ A Comprehensive Analysis",
+        "Pdf name":"Medical_29.pdf"
     },
     {
         "ID":"Medical_30",
-        "Title":null
+        "Title":"Melatonin in the prevention of cisplatin-induced acute nephrotoxicity",
+        "Pdf name":"Medical_30.pdf"
     },
     {
         "ID":"Medical_31",
-        "Title":null
+        "Title":"Liposomes and PEGylated liposomes as drug delivery systems",
+        "Pdf name":"Medical_31.pdf"
     },
     {
         "ID":"Medical_32",
-        "Title":null
+        "Title":"Improved Bioavailability with Dry Powder Cannabidiol",
+        "Pdf name":"Medical_32.pdf"
     },
     {
         "ID":"Medical_33",
-        "Title":null
+        "Title":"Immunogenicity of Cas9 Protein",
+        "Pdf name":"Medical_33.pdf"
     },
     {
         "ID":"Medical_34",
-        "Title":null
+        "Title":"Genomic medicine and personalized treatment- a narrative review",
+        "Pdf name":"Medical_34.pdf"
     },
     {
         "ID":"Medical_35",
-        "Title":null
+        "Title":"From Taboo to Treatment- The Emergence of Psychedelics in the Management of Pain and Opioid Use Disorder",
+        "Pdf name":"Medical_35.pdf"
     },
     {
         "ID":"Medical_36",
-        "Title":null
+        "Title":"First-order derivative spectrophotometric estimation of gemifloxacin mesylate and",
+        "Pdf name":"Medical_36.pdf"
     },
     {
         "ID":"Medical_37",
-        "Title":null
+        "Title":"Exploring different approaches to improve the success of drug discovery and development project a review",
+        "Pdf name":"Medical_37.pdf"
     },
     {
         "ID":"Medical_38",
-        "Title":null
+        "Title":"Examining the Long-Term Impacts of Psychotropic Drugs and Considerations for People Discontinuing Treatment",
+        "Pdf name":"Medical_38.pdf"
     },
     {
         "ID":"Medical_39",
-        "Title":null
+        "Title":"Efficacy and safety of FLOT regimen vs DCF, FOLFOX, and ECF regimens as perioperative chemotherapy treatments for resectable gastric cancer patients; a report from the middle east",
+        "Pdf name":"Medical_39.pdf"
     },
     {
         "ID":"Medical_40",
-        "Title":null
+        "Title":"Contribution of Organofluorine Compounds to Pharmaceuticals",
+        "Pdf name":"Medical_40.pdf"
     },
     {
         "ID":"Medical_41",
-        "Title":null
+        "Title":"Cerebral ischemic stroke and different approaches for treatment of stroke",
+        "Pdf name":"Medical_41.pdf"
     },
     {
         "ID":"Medical_42",
-        "Title":null
+        "Title":"Botanical medicines for the urinary tract",
+        "Pdf name":"Medical_42.pdf"
     },
     {
         "ID":"Medical_43",
-        "Title":null
+        "Title":"Bacterial-based drug delivery systems- A new way to combat infectious disease",
+        "Pdf name":"Medical_43.pdf"
     },
     {
         "ID":"Medical_44",
-        "Title":null
+        "Title":"Advances in Food-As-Medicine Interventions and Their Impact on Future Food Production, Processing, and Supply Chains",
+        "Pdf name":"Medical_44.pdf"
     },
     {
         "ID":"Medical_45",
-        "Title":null
+        "Title":"A molecular docking study repurposes FDA approved iron oxide",
+        "Pdf name":"Medical_45.pdf"
     },
     {
         "ID":"Medical_46",
-        "Title":null
+        "Title":"Artificial intelligence driven translational medicine- a machine learning framework for predicting disease outcomes and optimizing patient centric care",
+        "Pdf name":"Medical_46.pdf"
     },
     {
         "ID":"Medical_47",
-        "Title":null
+        "Title":"Antioxidant properties and cytotoxic effects of Oxalis corniculata on human Hepatocarcinoma (Hep-G2) cell line an in vitro and in silico evaluation",
+        "Pdf name":"Medical_47.pdf"
     },
     {
         "ID":"Medical_48",
-        "Title":null
+        "Title":"Anti-angiogenic peptides application in cancer therapy a review",
+        "Pdf name":"Medical_48.pdf"
     },
     {
         "ID":"Medical_49",
-        "Title":null
+        "Title":"An overview of psilocybin, LSD, MDMA, and ketamine in revitalizing psychedelic-assisted therapy- Insights, limitations and future directions",
+        "Pdf name":"Medical_49.pdf"
     },
     {
         "ID":"Medical_50",
-        "Title":null
+        "Title":"An Investigation on the In Vitro Wound Healing ",
+        "Pdf name":"Medical_50.pdf"
     }
 ]
