@@ -41,7 +41,7 @@ async function loadAndUseData(){
             //Making button access when clicked, using addEventListener
             newButton.addEventListener("click", function(){
               //Basically filling the link with the name of the title for each row
-              const pdfURL = `./website-data/medical-kb/${data[i]['ID']}.pdf`
+              const pdfURL = `/medical-kb/${data[i]['Pdf name']}`;
               const newWindow = window.open(pdfURL, '_blank');
             })
             // Physically Adding the button
@@ -55,6 +55,7 @@ async function loadAndUseData(){
     ///////////////////////////////////////////////////////
     // This is for the General table, the 2nd table
     let general_length = data2.length;
+    // This is iterating through JSON file so the pdfs are in the correct ID order!!!
     const generalTableBody = document.querySelectorAll('tbody')[1]; // getting 2nd table since there are 2
     for(let i = 0; i < general_length; i++){
 
@@ -82,7 +83,7 @@ async function loadAndUseData(){
             //Making button access when clicked, using addEventListener
             newButton.addEventListener("click", function(){
               //Basically filling the link with the name of the title for each row
-              const pdfURL = `./website-data/general-kb/${data[i]['ID']}.pdf`
+              const pdfURL = `./website-data/general-kb/${data[i]['Pdf name']}`;
               const newWindow = window.open(pdfURL, '_blank');
             })
             // Physically Adding the button
