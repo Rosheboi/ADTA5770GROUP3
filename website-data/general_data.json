@@ -493,5 +493,11 @@
         "ID":"INDENG098",
         "Title":"Towards smart manufacturing: Implementation and benefits",
         "Pdf name":"Towards_smart_manufacturing.pdf"
+    },
+    {
+        "ID":"INDENG099",
+        "Title":"Optimizing Pharmaceutical Control with Multi-Task Contextual Bandits: Addressing Batch Heterogeneity for Improved Manufacturing Efficiency",
+        "Pdf name":"Optimizing_Pharmaceutical_Control_with_Multi-Task_Contextual_Bandits- Addressing_Batch_Heterogeneity_for_Improved_Manufacturing_Efficiency.pdf"
     }
+    
 ]
