@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rosheboi.github.io/ADTA5770GROUP3/sitemap.xml
